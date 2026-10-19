@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666712121926",
+    "project_id": "com-example-yazio2-5ac05",
+    "storage_bucket": "com-example-yazio2-5ac05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666712121926:android:3da6a21ca55fdd99692047",
+        "android_client_info": {
+          "package_name": "com.example.yazio2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt5yEc_1DMrH8LebSryF85aXzGNvStSTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
